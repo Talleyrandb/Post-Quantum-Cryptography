@@ -62,3 +62,11 @@ Build a cryptographic inventory: algorithms, key sizes, protocols, HSM/KMS usage
 *  Use NIST’s FIPS 203, 204, 205, and HQC as primary technical reference points, and map the roadmap to frameworks such as NIST CSF and SP 800‑53.
 
 *  Be aware that major cloud providers (AWS CloudHSM/KMS, Azure Key Vault, Google Cloud KMS) are only starting to support these standards: coverage is still incomplete, and some features—especially for HSM‑backed keys and HQC—remain in preview or on the roadmap.
+
+#### referencies 
+
+https://www.mastercard.com/global/en/news-and-trends/Insights/2025/post-quantum-cryptography-white-paper.html
+
+https://radar.cloudflare.com/explorer?dataSet=http&groupBy=post_quantum&dt=1d
+
+https://www.congress.gov/bill/117th-congress/house-bill/7535/text
